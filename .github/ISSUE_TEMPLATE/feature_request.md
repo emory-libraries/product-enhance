@@ -17,7 +17,10 @@ A clear and concise description of what the problem is. Ex. It is very difficult
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+A clear and concise description of any alternative solutions or workarounds you've considered.
+
+**How Will this impact users?**
+A clear and concise description of how many and which types of users would benefit from this feature, or any who may be negatively impacted by the change.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
