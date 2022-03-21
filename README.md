@@ -6,7 +6,7 @@ This repository is dedicated to receive and review enhancement request submissio
 
 * [View existing requests](https://github.com/emory-libraries/product-enhance/projects/1)
 
-* Send a [new request](https://github.com/emory-libraries/product-enhance/issues/new/choose)
+* Send a [new request](https://github.com/emory-libraries/product-enhance/issues/new?assignees=&labels=&template=feature_request.md&title=)
 
 * [Learn more](https://github.com/emory-libraries/product-enhance/wiki) about how to submit and review enhancement requests
 
