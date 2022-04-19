@@ -2,7 +2,7 @@
 
 Welcome to the enhancement request repository for {product name}! 
 
-This repository is dedicated to receive and review enhancement request submissions. 
+This repository is dedicated to receiving and reviewing enhancement request submissions. 
 
 * [View existing requests](https://github.com/emory-libraries/product-enhance/projects/1)
 
